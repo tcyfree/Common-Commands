@@ -51,6 +51,7 @@ total 1.1G
 
 16. diff 文件1 文件2
 
+17. 修改 composer.json 后需使用命令重新加载：composer dumpautoload
 
 
 
