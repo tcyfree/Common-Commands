@@ -1,4 +1,4 @@
-1. 查看运行情况：netstat -tnl
+1. 查看运行情况：netstat -tnl 查看所有端口：netstat -lntp
 
 2. 查看服务：ps -aux | grep nginx 查看端口号：netstat -anp|grep 9501
 
