@@ -17,4 +17,10 @@
    total 1.1G
    -rw-r--r-- 1 root root 798K Aug 14 15:51 access.log
    -rw-r--r-- 1 root root 210K Nov 30 13:11 nginx_error.log
-   -rw-r--r-- 1 root root 1.1G Jan 10 16:03 test-th5.log   
+   -rw-r--r-- 1 root root 1.1G Jan 10 16:03 test-th5.log
+   
+9.普通用户改为root用户
+vim /etc/passwd
+将x:1000改为0
+qmadmin:x:0:1000::/home/qmadmin:/bin/bash
+      
