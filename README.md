@@ -10,4 +10,4 @@
 
 # [Docker命令](https://github.com/tcyfree/CommonCommands/blob/master/Docker.md)
 
-# [Git别名配置](https://github.com/tcyfree/CommonCommands/blob/master/Git.md)
+# [Git别名配置](https://github.com/tcyfree/CommonCommands/blob/master/Git.sh)
