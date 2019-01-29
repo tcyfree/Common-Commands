@@ -11,3 +11,5 @@
 # [Docker命令](https://github.com/tcyfree/CommonCommands/blob/master/Docker.md)
 
 # [Git别名配置](https://github.com/tcyfree/CommonCommands/blob/master/Git.sh)
+
+# [Gitlab安装](https://github.com/tcyfree/CommonCommands/blob/master/Gitlab.sh)
