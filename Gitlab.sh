@@ -19,5 +19,5 @@ docker run --name='gitlab' -d \
        --restart always \
        --volume /root/docker/gitlab/config:/etc/gitlab \
        --volume /root/docker/gitlab/logs:/var/log/gitlab \
-       --volume /root/docker/gitlab/data:/var/opt/gitlab 
+       --volume /root/docker/gitlab/data:/var/opt/gitlab \
        gitlab/gitlab-ce:9.5.4-ce.0
