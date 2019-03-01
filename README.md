@@ -12,4 +12,4 @@
 
 # [Git别名配置](https://github.com/tcyfree/CommonCommands/blob/master/Git.sh)
 
-# [Gitlab&Gitlab-Runner安装](https://github.com/tcyfree/CommonCommands/blob/master/Gitlab.sh)
+# [Gitlab&Gitlab-Runner安装](https://github.com/tcyfree/CommonCommands/blob/master/Gitlab&Gitlab-Runner.sh)
