@@ -2,5 +2,3 @@
 
 sudo docker run -d --restart=unless-stopped -p 8080:8080 rancher/server  
  
-访问
-http://47.105.137.250:8080/
