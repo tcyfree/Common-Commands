@@ -1,6 +1,4 @@
-﻿# 相关命名
-
-# [LINUX命令](https://github.com/tcyfree/CommonCommands/blob/master/LINUX.sh)
+﻿# [LINUX命令](https://github.com/tcyfree/CommonCommands/blob/master/LINUX.sh)
 
 # [MySQL常用SQL与命令](https://github.com/tcyfree/CommonCommands/blob/master/MYSQL.sh)
 
