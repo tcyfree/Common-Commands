@@ -1,3 +1,6 @@
+vi ~/.bashrc
+
+
 alias gs="git status"
 alias gpud="git push origin develop"
 alias gpum="git push origin master"
