@@ -1,4 +1,4 @@
-﻿# [LINUX命令](https://github.com/tcyfree/CommonCommands/blob/master/LINUX.sh)
+﻿# [Linux命令](https://github.com/tcyfree/CommonCommands/blob/master/LINUX.sh)
 
 # [MySQL常用SQL与命令](https://github.com/tcyfree/CommonCommands/blob/master/MYSQL.sh)
 
