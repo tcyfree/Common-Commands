@@ -7,6 +7,8 @@ docker stop $(docker ps -a -q)
 
 docker rm $(docker ps -a -q)
 
+docker rm -f xxx
+
 参考文章 https://yq.aliyun.com/articles/110806?spm=5176.8351553.0.0.499f1991B4V0Ly
 docker版本重要！！！参考rancher支持的docker版本 https://www.cnrancher.com/docs/rancher/v1.x/cn/infrastructure/hosts/#docker%E7%89%88%E6%9C%AC%E9%80%82%E7%94%A8%E5%AF%B9%E6%AF%94
 
