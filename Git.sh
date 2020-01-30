@@ -26,3 +26,5 @@ alias c:c="php artisan cache:clear"
 alias conf:c="php artisan config:clear"
 alias r:c="php artisan route:clear"
 alias defpm="docker exec -it lnmp-php-fpm sh"
+
+source .bashrc
