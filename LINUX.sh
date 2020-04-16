@@ -36,4 +36,10 @@ qmadmin:x:0:1000::/home/qmadmin:/bin/bash
     /var：这个目录中存放着在不断扩充着的东西，我们习惯将那些经常被修改的目录放在这个目录下。包括各种日志文件。
     
 12.linux下的find文件查找命令与grep文件内容查找命令.
+
+13.history
+使用! 执行历史命令。
+　　! number 执行第几条命令
+　　! command 从最近的命令查到以command开头的命令执行
+　　!! 执行上一条
       
