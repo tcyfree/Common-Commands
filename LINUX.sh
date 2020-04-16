@@ -6,7 +6,7 @@
 
 4. make depend 检查依赖库
 
-5. ctrl+u 删除到命令行的开始处
+5. ctrl+u 删除到命令行的开始处 ctrl+a 光标移动到命令头    ctrl + e 光标移动到命令尾
 
 6. curl -v http://www.baidu.com >/dev/null #-v 同时显示状态码等信息
    curl -I http://api.go-qxd.com/static/images/nx-xds-logo.jpg # 只请求头信息
@@ -34,4 +34,6 @@ qmadmin:x:0:1000::/home/qmadmin:/bin/bash
     /root：该目录为系统管理员，也称作超级权限者的用户主目录。
     /sbin：s就是Super User的意思，这里存放的是系统管理员使用的系统管理程序。
     /var：这个目录中存放着在不断扩充着的东西，我们习惯将那些经常被修改的目录放在这个目录下。包括各种日志文件。
+    
+12.linux下的find文件查找命令与grep文件内容查找命令.
       
