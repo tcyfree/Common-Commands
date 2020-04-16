@@ -23,4 +23,6 @@
 vim /etc/passwd
 将x:1000改为0
 qmadmin:x:0:1000::/home/qmadmin:/bin/bash
+
+10.查找配置文件 whereis nginx.conf
       
