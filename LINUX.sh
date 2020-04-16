@@ -25,4 +25,6 @@ vim /etc/passwd
 qmadmin:x:0:1000::/home/qmadmin:/bin/bash
 
 10.查找配置文件 whereis nginx.conf
+
+11. /usr/ 这是一个非常重要的文件，用户的很多应用程序和文件都放在这个目录下，类似于Windows下的Program目录。
       
